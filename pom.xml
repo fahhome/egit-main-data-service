@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>fahmid.islam</groupId>
-	<artifactId>egit-asignment</artifactId>
+	<artifactId>master-data-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>egit-asignment</name>
+	<name>master-data-service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>8</java.version>
